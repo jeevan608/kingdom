@@ -1,4 +1,4 @@
-// ==/UserScript==
+// ==UserScript==
 // @name         Kingdom Bot
 // @namespace    https://github.com/jeevan608/youlikehitsbot
 // @version      0.4.1
