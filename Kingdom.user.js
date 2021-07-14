@@ -1,9 +1,9 @@
 // ==/UserScript==
 // @name         Kingdom Bot
-// @namespace    https://github.com/gekkedev/youlikehitsbot
+// @namespace    https://github.com/jeevan608/youlikehitsbot
 // @version      0.4.1
 // @description  Interacts with YLH automatically whereever possible.
-// @author       gekkedev
+// @author       jeevan
 // @match        *://kingdomlikes.com/free_points/youtube-views
 // @grant        GM.getValue
 // @grant        GM.setValue
